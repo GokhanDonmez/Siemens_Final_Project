@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Arduino.API</name>
+    </assembly>
+    <members>
+        <member name="M:Arduino.API.Controllers.DatasController.Get">
+            <summary>
+            Get All Data
+            </summary>
+            <returns> Returns All Data and Status code</returns>
+        </member>
+        <member name="M:Arduino.API.Controllers.DatasController.GetDataById(System.Int32)">
+            <summary>
+            Get specific Data by using Id
+            </summary>
+            <param name="id"></param>
+            <returns>Return Data and status</returns>
+        </member>
+        <member name="M:Arduino.API.Controllers.DatasController.GetDataCount">
+            <summary>
+            Get count of  Datas
+            </summary>
+            <returns>Return Data's count and status</returns>
+        </member>
+        <member name="M:Arduino.API.Controllers.DatasController.CreateData(Arduino.Entities.Data)">
+            <summary>
+            Generate a new Data
+            </summary>
+            <param name="data"></param>
+            <returns>Status code and data</returns>
+        </member>
+        <member name="M:Arduino.API.Controllers.DatasController.UpdateData(Arduino.Entities.Data)">
+            <summary>
+            updates specific data using id
+            </summary>
+            <param name="veri"></param>
+            <returns>Status code and data</returns>
+        </member>
+        <member name="M:Arduino.API.Controllers.DatasController.DeleteData(System.Int32)">
+            <summary>
+            Deletes specific data using id
+            </summary>
+            <param name="id"></param>
+            <returns>Status code and info data</returns>
+        </member>
+    </members>
+</doc>

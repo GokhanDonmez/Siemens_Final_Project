@@ -1,0 +1,388 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.API.Test\\Arduino.API.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.API.Test\\Arduino.API.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.API.Test\\Arduino.API.Test.csproj",
+        "projectName": "Arduino.API.Test",
+        "projectPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.API.Test\\Arduino.API.Test.csproj",
+        "packagesPath": "C:\\Users\\Z004PUVZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.API.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Z004PUVZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.API\\Arduino.API.csproj": {
+                "projectPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.API\\Arduino.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.API\\Arduino.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.API\\Arduino.API.csproj",
+        "projectName": "Arduino.API",
+        "projectPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.API\\Arduino.API.csproj",
+        "packagesPath": "C:\\Users\\Z004PUVZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Z004PUVZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Business\\Arduino.Business.csproj": {
+                "projectPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Business\\Arduino.Business.csproj"
+              },
+              "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.DataAccess\\Arduino.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.DataAccess\\Arduino.DataAccess.csproj"
+              },
+              "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Entities\\Arduino.Entities.csproj": {
+                "projectPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Entities\\Arduino.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.18.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Business\\Arduino.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Business\\Arduino.Business.csproj",
+        "projectName": "Arduino.Business",
+        "projectPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Business\\Arduino.Business.csproj",
+        "packagesPath": "C:\\Users\\Z004PUVZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Z004PUVZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.DataAccess\\Arduino.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.DataAccess\\Arduino.DataAccess.csproj"
+              },
+              "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Entities\\Arduino.Entities.csproj": {
+                "projectPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Entities\\Arduino.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.DataAccess\\Arduino.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.DataAccess\\Arduino.DataAccess.csproj",
+        "projectName": "Arduino.DataAccess",
+        "projectPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.DataAccess\\Arduino.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Z004PUVZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Z004PUVZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Entities\\Arduino.Entities.csproj": {
+                "projectPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Entities\\Arduino.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Entities\\Arduino.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Entities\\Arduino.Entities.csproj",
+        "projectName": "Arduino.Entities",
+        "projectPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Entities\\Arduino.Entities.csproj",
+        "packagesPath": "C:\\Users\\Z004PUVZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\Arduino_API\\Arduino.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Z004PUVZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

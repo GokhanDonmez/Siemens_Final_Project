@@ -1,0 +1,14 @@
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\bin\Debug\Arduino_Frm.exe.config
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\bin\Debug\Arduino_Frm.exe
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\bin\Debug\Arduino_Frm.pdb
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\obj\Debug\Arduino_Frm.csproj.AssemblyReference.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\obj\Debug\Arduino_Frm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\obj\Debug\Arduino_Frm.Form1.resources
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\obj\Debug\Arduino_Frm.Properties.Resources.resources
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\obj\Debug\Arduino_Frm.csproj.GenerateResource.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\obj\Debug\Arduino_Frm.csproj.CoreCompileInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\obj\Debug\Arduino_Frm.csproj.CopyComplete
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\obj\Debug\Arduino_Frm.exe
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino_Frm\obj\Debug\Arduino_Frm.pdb

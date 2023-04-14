@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arduino_Dummy", "Arduino_Dummy.vcxproj", "{AEBF6D10-0224-493D-96CD-B1EF52A8D006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEBF6D10-0224-493D-96CD-B1EF52A8D006}.Debug|ARM.ActiveCfg = Debug|ARM
+		{AEBF6D10-0224-493D-96CD-B1EF52A8D006}.Debug|ARM.Build.0 = Debug|ARM
+		{AEBF6D10-0224-493D-96CD-B1EF52A8D006}.Debug|ARM.Deploy.0 = Debug|ARM
+		{AEBF6D10-0224-493D-96CD-B1EF52A8D006}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{AEBF6D10-0224-493D-96CD-B1EF52A8D006}.Debug|ARM64.Build.0 = Debug|ARM64
+		{AEBF6D10-0224-493D-96CD-B1EF52A8D006}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{AEBF6D10-0224-493D-96CD-B1EF52A8D006}.Release|ARM.ActiveCfg = Release|ARM
+		{AEBF6D10-0224-493D-96CD-B1EF52A8D006}.Release|ARM.Build.0 = Release|ARM
+		{AEBF6D10-0224-493D-96CD-B1EF52A8D006}.Release|ARM.Deploy.0 = Release|ARM
+		{AEBF6D10-0224-493D-96CD-B1EF52A8D006}.Release|ARM64.ActiveCfg = Release|ARM64
+		{AEBF6D10-0224-493D-96CD-B1EF52A8D006}.Release|ARM64.Build.0 = Release|ARM64
+		{AEBF6D10-0224-493D-96CD-B1EF52A8D006}.Release|ARM64.Deploy.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D8D4385-A84E-47DC-8B73-90409B244306}
+	EndGlobalSection
+EndGlobal

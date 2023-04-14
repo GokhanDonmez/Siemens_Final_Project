@@ -1,0 +1,17 @@
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\bin\Debug\net7.0\Arduino.Business.deps.json
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\bin\Debug\net7.0\Arduino.Business.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\bin\Debug\net7.0\Arduino.Business.pdb
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\obj\Debug\net7.0\Arduino.Business.csproj.AssemblyReference.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\obj\Debug\net7.0\Arduino.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\obj\Debug\net7.0\Arduino.Business.AssemblyInfoInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\obj\Debug\net7.0\Arduino.Business.AssemblyInfo.cs
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\obj\Debug\net7.0\Arduino.Business.csproj.CoreCompileInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\obj\Debug\net7.0\Arduino.Business.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\obj\Debug\net7.0\refint\Arduino.Business.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\obj\Debug\net7.0\Arduino.Business.pdb
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\obj\Debug\net7.0\ref\Arduino.Business.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\bin\Debug\net7.0\Arduino.DataAccess.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\bin\Debug\net7.0\Arduino.Entities.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\bin\Debug\net7.0\Arduino.DataAccess.pdb
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\bin\Debug\net7.0\Arduino.Entities.pdb
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Business\obj\Debug\net7.0\Arduino.Business.csproj.CopyComplete

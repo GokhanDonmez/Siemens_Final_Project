@@ -1,0 +1,184 @@
+{
+  "x-generator": "NSwag v13.18.2.0 (NJsonSchema v10.8.0.0 (Newtonsoft.Json v10.0.0.0))",
+  "swagger": "2.0",
+  "info": {
+    "title": "Arduino Data Api",
+    "contact": {
+      "name": "Gokhan DONMEZ",
+      "email": "gokhan01donmez@gmail.com"
+    },
+    "version": "1.0"
+  },
+  "host": "localhost:13440",
+  "schemes": [
+    "http"
+  ],
+  "paths": {
+    "/api/Datas": {
+      "get": {
+        "tags": [
+          "Datas"
+        ],
+        "summary": "Get All Data",
+        "operationId": "Datas_Get",
+        "responses": {
+          "200": {
+            "x-nullable": true,
+            "description": "Returns All Data and Status code",
+            "schema": {
+              "type": "file"
+            }
+          }
+        }
+      }
+    },
+    "/api/Datas/GetDataById": {
+      "get": {
+        "tags": [
+          "Datas"
+        ],
+        "summary": "Get specific Data by using Id",
+        "operationId": "Datas_GetDataById",
+        "parameters": [
+          {
+            "type": "integer",
+            "name": "id",
+            "in": "query",
+            "format": "int32",
+            "x-nullable": false
+          }
+        ],
+        "responses": {
+          "200": {
+            "x-nullable": true,
+            "description": "Return Data and status",
+            "schema": {
+              "type": "file"
+            }
+          }
+        }
+      }
+    },
+    "/api/Datas/CreateData": {
+      "post": {
+        "tags": [
+          "Datas"
+        ],
+        "summary": "Generate a new Data",
+        "operationId": "Datas_CreateData",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "name": "veri",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Data"
+            },
+            "x-nullable": false
+          }
+        ],
+        "responses": {
+          "200": {
+            "x-nullable": true,
+            "description": "Status code and data",
+            "schema": {
+              "type": "file"
+            }
+          }
+        }
+      }
+    },
+    "/api/Datas/UpdateData": {
+      "put": {
+        "tags": [
+          "Datas"
+        ],
+        "summary": "updates specific data using id",
+        "operationId": "Datas_UpdateData",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "name": "veri",
+            "in": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/Data"
+            },
+            "x-nullable": false
+          }
+        ],
+        "responses": {
+          "200": {
+            "x-nullable": true,
+            "description": "Status code and data",
+            "schema": {
+              "type": "file"
+            }
+          }
+        }
+      }
+    },
+    "/api/Datas/DeleteData": {
+      "delete": {
+        "tags": [
+          "Datas"
+        ],
+        "summary": "Deletes specific data using id",
+        "operationId": "Datas_DeleteData",
+        "parameters": [
+          {
+            "type": "integer",
+            "name": "id",
+            "in": "query",
+            "format": "int32",
+            "x-nullable": false
+          }
+        ],
+        "responses": {
+          "200": {
+            "x-nullable": true,
+            "description": "Status code and info data",
+            "schema": {
+              "type": "file"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "Data": {
+      "type": "object",
+      "required": [
+        "id",
+        "fuel",
+        "lat",
+        "lon"
+      ],
+      "properties": {
+        "id": {
+          "type": "integer",
+          "format": "int32"
+        },
+        "fuel": {
+          "type": "string"
+        },
+        "lat": {
+          "type": "string"
+        },
+        "lon": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

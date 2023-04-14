@@ -1,0 +1,17 @@
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\bin\Debug\net7.0\Arduino.DataAccess.deps.json
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\bin\Debug\net7.0\Arduino.DataAccess.runtimeconfig.json
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\bin\Debug\net7.0\Arduino.DataAccess.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\bin\Debug\net7.0\Arduino.DataAccess.pdb
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\bin\Debug\net7.0\Arduino.Entities.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\bin\Debug\net7.0\Arduino.Entities.pdb
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\obj\Debug\net7.0\Arduino.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\obj\Debug\net7.0\Arduino.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\obj\Debug\net7.0\Arduino.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\obj\Debug\net7.0\Arduino.DataAccess.AssemblyInfo.cs
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\obj\Debug\net7.0\Arduino.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\obj\Debug\net7.0\Arduino.DataAccess.csproj.CopyComplete
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\obj\Debug\net7.0\Arduino.DataAccess.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\obj\Debug\net7.0\refint\Arduino.DataAccess.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\obj\Debug\net7.0\Arduino.DataAccess.pdb
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\obj\Debug\net7.0\Arduino.DataAccess.genruntimeconfig.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.DataAccess\obj\Debug\net7.0\ref\Arduino.DataAccess.dll

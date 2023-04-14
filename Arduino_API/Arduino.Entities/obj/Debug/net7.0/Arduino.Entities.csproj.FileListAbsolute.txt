@@ -1,0 +1,12 @@
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Entities\bin\Debug\net7.0\Arduino.Entities.deps.json
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Entities\bin\Debug\net7.0\Arduino.Entities.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Entities\bin\Debug\net7.0\Arduino.Entities.pdb
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Entities\obj\Debug\net7.0\Arduino.Entities.csproj.AssemblyReference.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Entities\obj\Debug\net7.0\Arduino.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Entities\obj\Debug\net7.0\Arduino.Entities.AssemblyInfoInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Entities\obj\Debug\net7.0\Arduino.Entities.AssemblyInfo.cs
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Entities\obj\Debug\net7.0\Arduino.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Entities\obj\Debug\net7.0\Arduino.Entities.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Entities\obj\Debug\net7.0\refint\Arduino.Entities.dll
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Entities\obj\Debug\net7.0\Arduino.Entities.pdb
+C:\Users\Z004PUVZ\Desktop\proje\Arduino_API\Arduino.Entities\obj\Debug\net7.0\ref\Arduino.Entities.dll
